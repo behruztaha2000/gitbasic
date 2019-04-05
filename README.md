@@ -1,3 +1,5 @@
-# gitbasic
-##sample
-###create sample project for practice
+gitbasic
+
+sample
+
+create sample project for practice
